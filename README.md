@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">I'm , an aspring Data Analyst with a passion for uncovering insights within numbers. With strong analytical skills and a thirst for knowledge, I love to solve complex problems through data analysis. is on a mission to turn data into meaningful solutions."</h3>
+<h1 align="center">Hi👋I'm Akshat</h1>
+<h3 align="center">I'm an aspring Data Analyst with a passion for uncovering insights within numbers. With strong analytical skills and a thirst for knowledge, I love to solve complex problems through data analysis. is on a mission to turn data into meaningful solutions."</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4bXptOXF4aWk3b2RuNTJodXpzYXpwZXJsd29pdHZtcGo0bXF2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.akshat.link/](https://www.akshat.link/)
